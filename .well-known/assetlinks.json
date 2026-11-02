@@ -1,11 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.gardenofshadowgg_afk.twa",
       "sha256_cert_fingerprints": [
-        "38:F1:FE:D1:95:46:D2:49:61:0B:B7:C2:25:B5:9C:DC:DA:FF:F7:82:08:E1:42:FD:9F:06:29:64:52:11:9B:B4"
+        "97:D6:6F:CE:C0:9D:18:6F:DE:63:67:0B:39:E7:BE:1A:82:52:19:CE:01:F0:79:2B:C9:E5:14:86:4E:C7:EB:84"
       ]
     }
   }
