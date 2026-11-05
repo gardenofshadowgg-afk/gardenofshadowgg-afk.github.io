@@ -5,9 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.gardenofshadowgg_afk.twa",
+      "package_name": "com.vhgames.bloqo",
       "sha256_cert_fingerprints": [
-        "97:D6:6F:CE:C0:9D:18:6F:DE:63:67:0B:39:E7:BE:1A:82:52:19:CE:01:F0:79:2B:C9:E5:14:86:4E:C7:EB:84"
+        "BF:68:49:E3:77:78:DE:16:AC:27:A8:54:06:66:E2:8B:9C:6E:1E:E7:9B:47:92:28:22:27:76:7D:72:C7:4A:EA",
+        "96:C2:99:48:81:E4:3C:0A:E9:A0:8F:9A:54:FE:04:9A:16:00:9F:99:B7:4E:EE:4A:40:B2:37:4F:AA:DC:8C:B4"
       ]
     }
   }
